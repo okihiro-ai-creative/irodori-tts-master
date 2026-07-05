@@ -1,7 +1,5 @@
 # SETUP
 
-Generic Skill Package
-
 この手順は、Irodori-TTS公式リポジトリをクローンして、`irodori-tts-master` スキルから生成したコマンドを実行できる状態にするためのものです。
 
 ## 前提

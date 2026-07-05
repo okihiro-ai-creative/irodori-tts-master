@@ -71,4 +71,4 @@ created: 2026-06-18
 
 ---
 
-*Updated: 2026-06-18 / v1.0 初版 / Generic Skill Package*
+*Updated: 2026-06-18 / v1.0 初版 / OKIHIRO FORGE*
