@@ -1,8 +1,6 @@
 # irodori-tts-master
 
-Created by OKIHIRO — AI自動化ワークフローを100個以上開発・運用しています。
-
-Generic Skill Package
+Created by OKIHIRO — AI自動化ワークフローを130個以上開発・運用しています。
 
 `irodori-tts-master` は、Irodori-TTS v3 / VoiceDesign を使って日本語TTS用のキャラクター固定、VoiceDesign caption、seed、絵文字制御、推論コマンドを設計するためのAIスキルです。
 
@@ -22,9 +20,9 @@ Generic Skill Package
 ## 最初に読むファイル
 
 1. `SETUP.md`
-3. `VERIFICATION.md`
-4. `SKILL.md`
-5. `steps/step1_intake.md`
+2. `VERIFICATION.md`
+3. `SKILL.md`
+4. `steps/step1_intake.md`
 
 ## 基本構成
 
